@@ -5,6 +5,7 @@ I am a final-year Electronics and Communication Engineering student with hands-o
 I have practical exposure to industrial monitoring concepts, automation fundamentals, and end-to-end system implementation — from simulation and debugging to cloud dashboard integration.
 
 🛠️ Technical Skills
+
 🔧 Embedded Systems & Automation
 
 ESP32, ESP32-CAM, Arduino
