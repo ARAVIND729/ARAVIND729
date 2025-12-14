@@ -1,15 +1,56 @@
-- 👋 Hi, I’m @ARAVIND
-- 👀 I’m interested in IOT and EMBEDDED SYSTEMS
-- 🌱 I’m currently learning MATLAB and SIMULINK 
-- 💞️ I’m looking to collaborate on open source project and online hackathon 
-- 📫 How to reach me araind.offwork@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:🌌 I’m fascinated by space and stargazing!
+👨‍💻 About Me
 
-- 
-💡 *Feel free to connect and collaborate! Let's build something amazing together.
+I am a final-year Electronics and Communication Engineering student with hands-on experience in embedded systems, IoT, automation, robotics, and AI-based inspection systems. My work focuses on building reliable, sensor-driven systems using ESP32 and Arduino, combined with real-time data acquisition, MQTT communication, and machine-vision workflows using OpenCV.
 
-<!---
-ARAVIND729/ARAVIND729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have practical exposure to industrial monitoring concepts, automation fundamentals, and end-to-end system implementation — from simulation and debugging to cloud dashboard integration.
+
+🛠️ Technical Skills
+🔧 Embedded Systems & Automation
+
+ESP32, ESP32-CAM, Arduino
+
+Sensor integration (temperature, ultrasonic, environmental, motion)
+
+Communication protocols: UART, SPI, I2C
+
+PLC fundamentals & automation concepts
+
+🌐 IoT & Real-Time Systems
+
+Blynk IoT dashboards
+
+PicsimLab simulation
+
+📐 Design & Tools
+
+KiCad (schematic & PCB basics)
+
+MATLAB Simulink
+
+LTspice
+
+
+🏢 Internship Experience
+🔹 Embedded Systems Intern – EMERTXE
+
+Implemented MQTT-based communication for real-time sensor data acquisition
+
+Optimized data pipelines to improve reliability and efficiency in industrial monitoring systems
+
+🔹 IoT Intern – EMERTXE
+
+Designed IoT home automation system with real-time monitoring and control
+
+Executed end-to-end system development, including simulation, debugging, and cloud dashboards
+
+🎯 Career Focus
+
+I am seeking trainee or entry-level roles in:
+
+Embedded Systems
+
+Industrial IoT
+
+Automation & Robotics
+
+AI-based Inspection Systems
