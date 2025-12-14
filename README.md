@@ -32,6 +32,7 @@ LTspice
 
 
 🏢 Internship Experience
+
 🔹 Embedded Systems Intern – EMERTXE
 
 Implemented MQTT-based communication for real-time sensor data acquisition
