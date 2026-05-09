@@ -1,6 +1,6 @@
 👨‍💻 About Me
 
-I am a final-year Electronics and Communication Engineering student with hands-on experience in embedded systems, IoT, automation, robotics, and AI-based inspection systems. My work focuses on building reliable, sensor-driven systems using ESP32 and Arduino, combined with real-time data acquisition, MQTT communication, and machine-vision workflows using OpenCV.
+I am a Electronics and Communication Engineering Graduate with hands-on experience in embedded systems, IoT, automation, robotics. My work focuses on building reliable, sensor-driven systems using ESP32 and Arduino, combined with real-time data acquisition, MQTT communication, and machine-vision workflows using OpenCV.
 
 I have practical exposure to industrial monitoring concepts, automation fundamentals, and end-to-end system implementation — from simulation and debugging to cloud dashboard integration.
 
@@ -55,4 +55,3 @@ Industrial IoT
 
 Automation & Robotics
 
-AI-based Inspection Systems
